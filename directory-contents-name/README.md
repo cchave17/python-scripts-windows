@@ -1,0 +1,1 @@
+This Python Script is to give it a path and it will print the directory and the file names of everything in said directory. 
